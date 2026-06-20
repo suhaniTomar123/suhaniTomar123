@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Suhani Tomar 👋  <br>🎓 Second-year undergraduate at MITS Gwalior  <br>💡 Passionate about Data Structures & Algorithms  <br>🧠 Focused on building strong problem-solving fundamentals  <br>📈 Actively learning and practicing coding every day<br>
+Hello! I'm Suhani Tomar 👋  <br>🎓 Third-year undergraduate at MITS Gwalior  <br>💡 Passionate about Data Structures & Algorithms  <br>🧠 Focused on building strong problem-solving fundamentals  <br>📈 Actively learning and practicing coding every day<br>
 
 
 ## 🌐 Socials:
